@@ -22,10 +22,10 @@ The goal of creating this dashboard was to answer the following question:
 		install.packages("shiny")
 	```
     - Another is go to the lower right hand corner and click on the **Packages** tab and then click install. Type in the name **shiny** in the input box that appears. 
-4. Install the libraries that are used in the code. If you choose to you can install these packages by going to Packages and clicking install and typing in each packages name. Or you can install it by typing this into the r studio console
-       ```
-       		install.packages("ggplot2")
-		install.packages("dplyr")
-		install.packages("reshape2")
-       ```
+4. Install the libraries that are used in the code. If you choose to you can install these packages by going to Packages and clicking install and typing in each packages name. You can also install these packages by typing these lines into the r studio console  
+```
+install.packages("ggplot2")  
+install.packages("dplyr")  
+install.packages("reshape2")  
+```
    
