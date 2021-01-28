@@ -17,8 +17,8 @@ LINK: https://cran.r-project.org/mirrors.html
 2. Install R studio 
 link: https://rstudio.com/products/rstudio/download/
 3. Once R studio is downloaded open it up. There are two ways to install r shiny on your computer. 
-   - type in   
+   - One method is type in   
 	```
 		install.packages("shiny")
 	```
-    - Go to the lower right hand corner and click on the **Packages** tab and then click install. Type in the name **shiny** in the input box that appears. 
+    - Another is go to the lower right hand corner and click on the **Packages** tab and then click install. Type in the name **shiny** in the input box that appears. 
