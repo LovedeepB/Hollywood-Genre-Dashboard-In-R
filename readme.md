@@ -17,8 +17,15 @@ The goal of creating this dashboard was to answer the following question:
 2. Install R studio   
    - LINK: https://rstudio.com/products/rstudio/download/
 3. Once R studio is downloaded open it up. There are two ways to install r shiny on your computer. 
-   - One method is type in   
+   - One method is type in the following into the r studio console   
 	```
 		install.packages("shiny")
 	```
     - Another is go to the lower right hand corner and click on the **Packages** tab and then click install. Type in the name **shiny** in the input box that appears. 
+4. Install the libraries that are used in the code. If you choose to you can install these packages by going to Packages and clicking install and typing in each packages name. Or you can install it by typing this into the r studio console
+       ```
+       		install.packages("ggplot2")
+		install.packages("dplyr")
+		install.packages("reshape2")
+       ```
+   
