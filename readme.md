@@ -5,8 +5,8 @@
 ## GOAL
 The goal of creating this dashboard was to answer the following question:  
 1. Which studio was the most profitable based on the year
-2. Which genre does the best worldwide 
-3. Compare audience rating to rotten tomate for the genre  
+2. Which genre performs the best worldwide 
+3. Compare audience rating to rotten tomato for the genre  
 
 <br /> 
 
